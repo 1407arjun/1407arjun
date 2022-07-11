@@ -1,2 +1,1 @@
-![banner](/assets/banner.png)
-![stats](https://github.arjunsivaraman.co/github.png)
+[![banner](https://github.arjunsivaraman.co/github.png)](https://arjunsivaraman.co)
