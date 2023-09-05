@@ -1,1 +1,1 @@
-[![banner](https://github.arjuns.software/github.png)](https://arjuns.software)
+[![banner](https://github.arjuns.co/github.png)](https://arjuns.software)
